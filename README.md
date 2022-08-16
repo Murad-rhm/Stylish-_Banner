@@ -8,6 +8,7 @@ apt install python -y
 apt install git -y
 git clone https://github.com/Murad-rhm/Stylish-_Banner
 cd Stylish-_Banner
+chmod +x *
 python Termux_banner.py
 ````
 
